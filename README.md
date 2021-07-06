@@ -14,26 +14,20 @@
 #### [105.从前序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) 
 #### [429.N叉树的层序遍历](https://leetcode-cn.com/problems/n-ary-tree-level-order-traversal/) 
 #### [236.二叉树的最近公共祖先](https://leetcode-cn.com/problems/lowest-common-ancestor-of-a-binary-tree/)
-#### [684.冗余连接](https://leetcode-cn.com/problems/redundant-connection/description/)---------有疑问
-* 通过的测试用例：
-[[1,2], [2,3], [3,4], [1,4], [1,5]]--------------输出：[1,4]  
-[[1,3],[3,4],[1,5],[3,5],[2,3]]--------------输出：[3,5]  
-[[1,2], [1,3], [2,3]]--------------输出：[2,3]  
-* 未通过的测试用例：
-[[2,7],[7,8],[3,6],[2,5],[6,8],[4,8],[2,8],[1,8],[7,10],[3,9]]--------------输出：[1,8]，正确输出：[2,8]  
+#### [684.冗余连接](https://leetcode-cn.com/problems/redundant-connection/description/)
 #### [207.课程表](https://leetcode-cn.com/problems/course-schedule/)---------CanFinish.java有疑问
 * 通过的测试用例：
 [[1,0], [0,1]]--------------输出：false  
 * 未通过的测试用例：
 [[1,0]]--------------输出：false，正确输出：true  
 #### [17.电话号码的字母组合](https://leetcode-cn.com/problems/letter-combinations-of-a-phone-number/)
-#### [200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 
 ### 未练习
 #### [130.被围绕的区域](https://leetcode-cn.com/problems/surrounded-regions/)---------`作业`
 #### [106.从后序与中序遍历序列构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/)---------`作业`
 #### [210.课程表Ⅱ](https://leetcode-cn.com/problems/course-schedule-ii/)---------`作业`
 #### [433.最小基因变化](https://leetcode-cn.com/problems/minimum-genetic-mutation/)
+#### [200.岛屿数量](https://leetcode-cn.com/problems/number-of-islands/)
 
 
 ## Hard：3道题
