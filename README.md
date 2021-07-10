@@ -30,7 +30,7 @@
 * [23.合并k个升序链表](https://leetcode-cn.com/problems/merge-k-sorted-lists/)
 * [239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 * [329.矩阵中的最长递增路径](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/)
+* [154.寻找旋转排列数组中的最小值Ⅱ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 
 ### 未练习
-#### [154.寻找旋转排列数组中的最小值Ⅱ](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array-ii/)
 #### [数据流的中位数](https://leetcode-cn.com/problems/find-median-from-data-stream/)
