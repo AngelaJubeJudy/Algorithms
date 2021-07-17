@@ -1,4 +1,4 @@
-# class 1 & 2
+# WEEK 1
 ## `due: 2021-06-23`
 ## 总计：27道题
 ## Easy：9道题
@@ -42,39 +42,4 @@
 #### [84.柱状图中最大的矩形](https://leetcode-cn.com/problems/largest-rectangle-in-histogram/)
 #### [239.滑动窗口最大值](https://leetcode-cn.com/problems/sliding-window-maximum/)
 #### [42.接雨水](https://leetcode-cn.com/problems/trapping-rain-water/)
-
-================================================================
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
