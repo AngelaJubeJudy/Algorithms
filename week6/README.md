@@ -16,10 +16,10 @@
 #### [416.分割等和子集](https://leetcode-cn.com/problems/partition-equal-subset-sum/)
 #### [714.买卖股票的最佳时机含手续费](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/)
 #### [309.买卖股票最佳时机含冷冻期](https://leetcode-cn.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/)
-
-### 未练习
 #### [63.不同路径Ⅱ](https://leetcode-cn.com/problems/unique-paths-ii/)
 #### [1143.最长公共子序列](https://leetcode-cn.com/problems/longest-common-subsequence/)
+
+### 未练习
 #### [300.最长上升子序列](https://leetcode-cn.com/problems/longest-increasing-subsequence/)
 #### [152.乘积最大子数组](https://leetcode-cn.com/problems/maximum-product-subarray/)
 #### [120.三角形最小路径和](https://leetcode-cn.com/problems/triangle/description/)---作业
