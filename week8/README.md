@@ -41,7 +41,7 @@
 ## Hard：3道题
 ### 已练习
 * [115.不同的子序列](https://leetcode-cn.com/problems/distinct-subsequences/)
+* [10.正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
 
 ### 未练习
 * [44.通配符匹配](https://leetcode-cn.com/problems/wildcard-matching/)
-* [10.正则表达式匹配](https://leetcode-cn.com/problems/regular-expression-matching/)
