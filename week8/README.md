@@ -6,6 +6,7 @@
 ### 已练习
 * [125.验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 * [28.实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)
+* [680.验证回文串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 
 ### 未练习
 * [Dijkstra Benchmark](https://www.acwing.com/problem/content/852/)
@@ -20,7 +21,6 @@
 * [917.仅仅反转字母](https://leetcode-cn.com/problems/reverse-only-letters/)
 * [205.同构字符串](https://leetcode-cn.com/problems/isomorphic-strings/)
 * [242.有效的字母异位词](https://leetcode-cn.com/problems/valid-anagram/)
-* [680.验证回文串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
 
 
 ## Medium：9道题
