@@ -7,10 +7,10 @@
 * [125.验证回文串](https://leetcode-cn.com/problems/valid-palindrome/)
 * [28.实现strStr()](https://leetcode-cn.com/problems/implement-strstr/)
 * [680.验证回文串Ⅱ](https://leetcode-cn.com/problems/valid-palindrome-ii/)
+* [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)
 
 ### 未练习
 * [Dijkstra Benchmark](https://www.acwing.com/problem/content/852/)
-* [709.转换成小写字母](https://leetcode-cn.com/problems/to-lower-case/)
 * [58最后一个单词的长度](https://leetcode-cn.com/problems/length-of-last-word/)
 * [771.宝石与石头](https://leetcode-cn.com/problems/jewels-and-stones/)
 * [387.字符串中的第一个唯一字符](https://leetcode-cn.com/problems/first-unique-character-in-a-string/)
@@ -28,10 +28,10 @@
 * [743.网络延迟时间](https://leetcode-cn.com/problems/network-delay-time/)
 * [5.最长回文子串](https://leetcode-cn.com/problems/longest-palindromic-substring/)
 * [8.字符串转换成整数](https://leetcode-cn.com/problems/string-to-integer-atoi/)
+* [1584.连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/)
 
 ### 未练习
 * [133.阈值距离内邻居最少的城市](https://leetcode-cn.com/problems/find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/)
-* [1584.连接所有点的最小费用](https://leetcode-cn.com/problems/min-cost-to-connect-all-points/)
 * [151.翻转字符串里的单词](https://leetcode-cn.com/problems/reverse-words-in-a-string/)
 * [49.字母异位词分组](https://leetcode-cn.com/problems/group-anagrams/)
 * [438.找到字符串中所有字母异位词](https://leetcode-cn.com/problems/find-all-anagrams-in-a-string/)
