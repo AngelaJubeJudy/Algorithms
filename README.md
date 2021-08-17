@@ -21,7 +21,7 @@ Includes practices based on common algorithms and data structures.
 * [WEEK 5](https://github.com/AngelaJubeJudy/Algorithms/tree/main/week5)
 * [WEEK 6](https://github.com/AngelaJubeJudy/Algorithms/tree/main/week6)
 * [WEEK 7](https://github.com/AngelaJubeJudy/Algorithms/tree/main/week7)
-* [WEEK 8]()
-* [WEEK 9]()
+* [WEEK 8](https://github.com/AngelaJubeJudy/Algorithms/tree/main/week8)
+* [WEEK 9](https://github.com/AngelaJubeJudy/Algorithms/tree/main/week9)
 * [WEEK 10]()
 
